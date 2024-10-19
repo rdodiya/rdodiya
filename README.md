@@ -100,6 +100,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- BLOG-POST-LIST:END -->
 
 - <a href="https://medium.com/coinmonks/intro-to-algorand-be11c7304661">Intro to Algorand</a>
+- <a href="https://medium.com/@rdodiya2001/how-to-track-users-activity-in-application-with-apache-unomi-bf7908f9261a">How to Track User’s Activity in Application with Apache Unomi</a>
+- <a href="https://medium.com/@rdodiya2001/how-to-use-apache-unomi-for-web-personalization-a-step-by-step-example-b8e1e960a126">How to Use Apache Unomi for Web Personalization: A Step-by-Step Example</a>
 
 
 
