@@ -34,6 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <a href="https://medium.com/@rdodiya2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rdodiya2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rdodiya2601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rdodiya2601" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rdodiya2601/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rdodiya2601/profile" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01e5451502ab706e69?mp_source=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/godinfinity19/9d3cc37d87672e1ad8e29ead65711353/raw/b4ce6ee859b3da89906d3e285632e8c29b20cb21/Upwork%20Profile.svg" alt="rdodiya2601/profile" height="30" width="40" /></a>
 </p>
 
 
