@@ -85,6 +85,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ![](https://github-readme-stats.vercel.app/api?username=rdodiya&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdodiya&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🥇 Holopin Board
+[![An image of @rdodiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rdodiya)](https://holopin.io/@rdodiya)
+
 
 ### ✍️ Random Dev Quote
 
